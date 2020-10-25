@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 > A small transparent coder.
 
-<img src="https://github-readme-stats.vercel.app/api?username=xylyxyrr&show_icons=true&hide_border=true&title_color=aaaaff&icon_color=aaaaff" align="right">
+<img src="https://github-readme-stats.xylyxyrr.vercel.app/api?username=xylyxyrr&show_icons=true&hide_border=true&title_color=aaaaff&icon_color=aaaaff" align="right">
 
