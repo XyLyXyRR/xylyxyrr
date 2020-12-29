@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> A small transparent coder.
+> Developer.
 
 <img src="https://github-readme-stats.xylyxyrr.vercel.app/api?username=xylyxyrr&show_icons=true&hide_border=true&title_color=aaaaff&icon_color=aaaaff" align="right">
 
